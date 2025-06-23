@@ -1,6 +1,6 @@
-For only code go to: volatility_study.ipynb 
+For full code go to: volatility_study.ipynb 
 
-For code and explanation go to: volatility.ipynb
+For partial code and explanation go to: volatility.ipynb
 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5073986
 
